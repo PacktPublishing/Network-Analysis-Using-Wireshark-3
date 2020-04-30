@@ -31,7 +31,7 @@ This course is for developers, sysadmins, and security analysts/experts who want
 No prior knowledge of Wireshark is required. However, those who are already familiar with previous versions of Wireshark and want to update their skills will also benefit from this course.
 
 ## Technical Requirements <br/>
-#### Minimum Hardware Requirements
+
 For successful completion of this course, students will require a computer system with at least the following:
 OS: Windows 10 Operating System 
 
