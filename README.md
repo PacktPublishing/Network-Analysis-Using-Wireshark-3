@@ -33,6 +33,7 @@ No prior knowledge of Wireshark is required. However, those who are already fami
 ## Technical Requirements <br/>
 
 For successful completion of this course, students will require a computer system with at least the following:
+
 OS: Windows 10 Operating System 
 
 Processor: Core i5 (or equivalent)
